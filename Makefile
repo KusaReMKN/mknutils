@@ -3,7 +3,7 @@ CC = gcc
 CFLAGS = -O2 -Wall
 VPATH = src
 
-PROGRAM =
+PROGRAM = false
 
 .PHONY: all
 all: $(PROGRAM)
